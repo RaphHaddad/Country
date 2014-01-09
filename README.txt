@@ -1,0 +1,1 @@
+A JSON file with all Country and their subdivissions (states, emirates, territories etc) 
